@@ -1,0 +1,14 @@
+a=int(input("enter a value"))
+b=int(input("enter b value"))
+add=a+b
+sub=a-b
+div=a/b
+multi=a*b
+modulus=a%b
+expo=a**b
+print("addition",add)
+print("subtraction",sub)
+print("Division",div)
+print("Multiplication",multi)
+print("Modulus",modulus)
+print("Exponential",expo)
