@@ -1,0 +1,8 @@
+print("***Personal Self Data***")
+print("My name is Durga")
+print("My fname is Gande")
+print("My mname is Sree")
+print("I am Studying BCA")
+print("My hobbies are reading books, listening music")
+print("I am interested in painting")
+
